@@ -10,5 +10,3 @@ end
 def input_to_index(user_input)
   puts "#{input_to_index(user_input)}.to_i"
 end
-
-def move(array, index, value)
